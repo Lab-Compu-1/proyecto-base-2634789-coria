@@ -2247,7 +2247,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Main Circuit"
+	(text "Circuito principal"
 		(exclude_from_sim no)
 		(at 55.1942 140.9954 0)
 		(effects
